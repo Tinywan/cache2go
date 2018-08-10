@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/muesli/cache2go"
+	"github.com/Tinywan/cache2go"
 )
 
 func main() {
